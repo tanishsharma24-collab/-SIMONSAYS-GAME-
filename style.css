@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+.btn
+{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 10px;
+}
+.box
+{
+    display: flex;
+    justify-content: center;
+}
+.red
+{
+    background-color: red;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.pink
+{
+    background-color: pink;
+}
+.orange
+{
+    background-color: orange;
+}
+.gf
+{
+    background-color: white;
+}
+.uf
+{
+    background-color: green;
+}
